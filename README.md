@@ -1,0 +1,1 @@
+This is a simple landing page created for testing and initial landing page design.

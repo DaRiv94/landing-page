@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="landing-page">
       <header className="header">
-        Landing Page Header
+        Blob Storage Video hosting Example
       </header>
       <div className="video-container">
         <div className="iframe-wrapper">
